@@ -1,29 +1,30 @@
 //da vidimo kako funkcionise setTimeout i setInterval
 
 //timeout
-//var x = setTimeout (run,2000);  //skloniti komentar da radi
+/*var x = setTimeout (run,2000);  //skloniti komentar da radi
+
 
 function run () {
 
     document.write ('Hello <br>');   //tacno za dvije sekunde ce se pojaviti nasa rijec hello
 }
 
-
+*/
 
 
 //interval
 
-//var x = setInterval (run1,2000);  //ovdje treba skloniti  komentar da radi
+/*var x = setInterval (run1,2000);  //ovdje treba skloniti  komentar da radi
 
 function run1 () {
 
     document.write ('Hello');   //svake dvije sekunde se ponavlja rijec i prikazivat ce se u nedogled
 
 }
-
+*/
 
 //
-//var x = setInterval (run2,2000);  //skloniti komentar da radi
+/*var x = setInterval (run2,2000);  //skloniti komentar da radi
 var i=0;
 
 function run2 () {
@@ -36,6 +37,7 @@ function run2 () {
     }
 
 }
+*/
 
 // ovo je bilo samo objasnjenje
 

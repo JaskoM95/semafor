@@ -1,0 +1,19 @@
+#semafor {
+    position:absolute;
+    left:45%;
+    top:15%;
+    width:200px;
+    height: 600px;
+    border:1px solid silver;
+    border-radius: 100px;
+    background-color: black;
+    
+}
+
+.boje {
+    width:150px;
+    height: 150px;
+    border: 1px solid silver;
+    border-radius: 150px;
+    margin: 23px;
+}
